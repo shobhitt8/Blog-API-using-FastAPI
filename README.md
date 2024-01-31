@@ -1,5 +1,5 @@
 
-# My FastAPI Blog API Project
+# Blog API with FastAPI Project
 
 ## Introduction
 
@@ -58,6 +58,7 @@ The API is Dockerized and can be deployed to a free hosting platform like [rende
 2.Install dependencies:
 
 pip install -r requirements.txt
+
 Set up a MongoDB instance and update the .env file with the MongoDB URI.
 
 3.Build and run the Docker container:
